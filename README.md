@@ -1,5 +1,5 @@
 #facebook-id
-'''
+```
 pkg install python
 pkg install git
 pip2 install requests
@@ -10,5 +10,5 @@ rm -rf facebook-id
 git clone https://github.com/jubairbro/facebook-id >
 cd facebook-id
 python id.py
-'''
+```
 #join https://t.me/jubairff
