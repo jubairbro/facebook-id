@@ -11,7 +11,7 @@ git clone https://github.com/jubairbro/facebook-id
 cd facebook-id
 python id.py
 ```
-##for update 
+## for update 
 ```
 cd facebook-id
 git pull
